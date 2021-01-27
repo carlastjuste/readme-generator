@@ -1,7 +1,6 @@
 # Readme Generator 
   <p align="center"><img src='https://img.shields.io/badge/license-MIT-blue.svg'</p>
-
-  ## Description
+## Description
   This command-line application allow the users to dynamically generate readme file for their project repositories by using their answers to a few questions.
 
   ## Table of Contents
