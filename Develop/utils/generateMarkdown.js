@@ -1,6 +1,24 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  let badgelink ='';
+
+switch (data.license) {
+  case 'MIT License':
+      badgelink ='https://img.shields.io/badge/license-MIT-blue.svg';
+      break;
+  case 'GNU GPLv3':
+      badgelink = 'https://img.shields.io/badge/license-GNU-blue.svg';
+    break;
+  case 'APACHE 2.0':
+      badgelink = 'https://img.shields.io/badge/license-APACHE-blue.svg';
+    break;
+  default:
+      badgelink = '';
+
+}
   return `# ${data.title} 
+  <p align="center"><img src='${badgelink}'</p>
+
   ## Description
   ${data.description}
 
@@ -31,7 +49,7 @@ function generateMarkdown(data) {
   ## Questions
     For more informations on this repository, please reach out to me via:
     * Email : ${data.email}
-    * Github : ${data.github}
+    * Github : [@${data.github}](http://github.com/${data.github})
 
 
 `;

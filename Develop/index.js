@@ -53,7 +53,7 @@ const questions = [
     },
     {
         type: 'input',
-        name:'questions',
+        name:'github',
         message: 'Enter github usename:'
     },
     {

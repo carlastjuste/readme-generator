@@ -1,6 +1,7 @@
-# Read Me Generator 
+# Readme Generator 
   ## Description
-  undefined
+    <p align="center"><img src='https://img.shields.io/badge/license-MIT-blue.svg'</p>
+  This command-line application allow the users to dynamically generate readme file for their project repositories by using their answers to a few questions.
 
   ## Table of Contents
 
@@ -12,23 +13,23 @@
   * [Questions](#questions)
 
   ## Installation
-    To install this project type npm install
+    To install this application you need to 
   
   ## Usage
-    Please follow demo
+    This app can be installed locally with the install nmp command: \n npm install 
 
   ## Contributing
-    Everyone are free to contribute to this project
+    Pull request are always welcome.
 
   ## License
     MIT License
 
   ## Tests
-    na
+    install dev dependencies by using the following command: \n npm install
 
   ## Questions
     For more informations on this repository, please reach out to me via:
     * Email : carlastjuste@gmail.com
-    * Github : undefined
+    * Github : [@undefined](http://github.com/undefined)
 
 
