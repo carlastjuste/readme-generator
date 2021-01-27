@@ -35,7 +35,7 @@ switch (data.license) {
     ${data.installation}
   
 ## Usage
-  Below is a demo of the app:
+ <p> Below is a demo of the app:</br></p>
     ${data.usage}
 
 ## Contributing
@@ -44,15 +44,15 @@ switch (data.license) {
 ## License
     ${data.license}
 
-  ## Tests
+## Tests
     ${data.tests}
     
-  ## Questions
+## Questions
 
 <p>
-  For more informations on this repository, please reach out to me via:<br>
+For more informations on this repository, please reach out to me via:<br>
 * Email : ${data.email} <br>
-* Github : [@${data.github}](http://github.com/${data.github})
+* Github : <a href="https://github.com/${data.github}">@${data.github}</a> 
 </p>
 
 `;
