@@ -20,7 +20,9 @@ switch (data.license) {
   <p align="center"><img src='${badgelink}'</p>
 
 ## Description
-  ${data.description}
+<p><a href="${data.description}">Demo</a><p>
+<p align="center"><img src='./screenshot.png'</p>
+
 
 ## Table of Contents
 
@@ -49,10 +51,9 @@ switch (data.license) {
     
 ## Questions
 
-<p>
-For more informations on this repository, please reach out to me via:<br>
-* Email : ${data.email} <br>
-* Github : <a href="https://github.com/${data.github}">@${data.github}</a> 
+<p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/${data.github}">@${data.github}</a></br>
+or via email on :
+<address>Email<a href="mailto:${data.email}">${data.email}</a><address><br>
 </p>
 
 `;

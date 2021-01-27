@@ -1,8 +1,8 @@
 # Readme Generator 
-  <p align="center"><img src='https://img.shields.io/badge/license-GNU-blue.svg'</p>
+  <p align="center"><img src='https://img.shields.io/badge/license-MIT-blue.svg'</p>
 
 ## Description
-  This command-line application built with Node.js allows the users to dynamically generate readme file for their project repositories by using their answers to a few questions.
+  <a href="This command-line application built with Node.js allows the users to dynamically generate readme file for their project repositories by using their answers to a few questions.">Demo</a>
 
 ## Table of Contents
 
@@ -18,22 +18,22 @@
   
 ## Usage
  <p> Below is a demo of the app:</br></p>
-<a href='https://drive.google.com/file/d/1_JJAq9my0XZSi_zs4A6q1OAtanL-dkSe/view'>Readme-Generator</a>
+    https://drive.google.com/file/d/1HJ-S5IMtue30Zd1o1xrZpnsxSnP4NqG6/view
 
 ## Contributing
     Pull request are always welcome.
 
 ## License
-    GNU GPLv3
+    MIT License
 
 ## Tests
-    Test scripts are not available yet
+    Scripts are not available yet.
     
 ## Questions
 
-<p>
-For more informations on this repository, please reach out to me via:<br>
-* Email : carlastjuste@gmail.com <br>
-* Github : <a href="https://github.com/carlastjuste">@carlastjuste</a> 
+<p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/carlastjuste">@carlastjuste</a><br>
+
+<address><a href="mailto:carlastjuste@gmail.com">carlastjuste@gmail.com</a></address><br>
+
 </p>
 
