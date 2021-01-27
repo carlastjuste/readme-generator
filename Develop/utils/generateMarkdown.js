@@ -19,10 +19,10 @@ switch (data.license) {
   return `# ${data.title} 
   <p align="center"><img src='${badgelink}'</p>
 
-  ## Description
+## Description
   ${data.description}
 
-  ## Table of Contents
+## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
@@ -31,26 +31,29 @@ switch (data.license) {
   * [Tests](#license)
   * [Questions](#questions)
 
-  ## Installation
+## Installation
     ${data.installation}
   
-  ## Usage
+## Usage
+  Below is a demo of the app:
     ${data.usage}
 
-  ## Contributing
+## Contributing
     ${data.contributing}
 
-  ## License
+## License
     ${data.license}
 
   ## Tests
     ${data.tests}
-
+    
   ## Questions
-    For more informations on this repository, please reach out to me via:
-    * Email : ${data.email}
-    * Github : [@${data.github}](http://github.com/${data.github})
 
+\```md
+  For more informations on this repository, please reach out to me via:
+* Email : ${data.email}
+* Github : [@${data.github}](http://github.com/${data.github})
+\```
 
 `;
 }
