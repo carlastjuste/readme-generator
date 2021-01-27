@@ -37,9 +37,8 @@ ${data.description}
     ${data.installation}
   
 ## Usage
- <p> Below is a link to a demo:</br></p>
- <p><a href="${data.usage}">Demo</a><p>
- <p align="center"><img src='./screenshot.PNG'</p>
+<p> The following a link is a video on how to use the app:<a href="${data.usage}">Demo</a></p></br>
+<p align="center"><img src='./screenshot.PNG'</p><br>
 
 
 ## Contributing
@@ -53,10 +52,7 @@ ${data.description}
     
 ## Questions
 
-<p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/${data.github}">@${data.github}</a></br>
-or via email at :
-<address>Email<a href="mailto:${data.email}">${data.email}</a><address><br>
-</p>
+<p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/${data.github}">@${data.github}</a> or via email at:<a href="mailto:${data.email}">${data.email}</a><address><br></p>
 
 `;
 }

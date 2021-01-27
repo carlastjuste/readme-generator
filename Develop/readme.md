@@ -1,9 +1,9 @@
-# Readme Generator 
+# README GENERATOR 
   <p align="center"><img src='https://img.shields.io/badge/license-MIT-blue.svg'</p>
 
 ## Description
-<p><a href="This command-line application built with Node.js allows the users to dynamically generate readme file for their project repositories by using their answers to a few questions.">Demo</a><p>
-<p align="center"><img src='./screenshot.png'</p>
+This command-line application built with Node.js allows the users to dynamically generate readme file for their project repositories by using their answers to a few questions.
+
 
 
 ## Table of Contents
@@ -19,8 +19,9 @@
     Before installing this app, make sure you have Noje.js installed.</br>- Pull this repo locally.<br>- On the terminal, cd to the folder where the file index.js is.<br>- Use the command 'npm install' on the terminal to install the dependencies.<br>-use the command node index.js to run the application. 
   
 ## Usage
- <p> Below is a demo of the app:</br></p>
-    https://drive.google.com/file/d/1MU7eya3to5P8iVToCBlPRX5A6VHtVf8S/view
+<p> The following a link is a video on how to use the app:<a href="https://drive.google.com/file/d/1MU7eya3to5P8iVToCBlPRX5A6VHtVf8S/view">Demo</a></p></br>
+<p align="center"><img src='./screenshot.PNG'</p><br>
+
 
 ## Contributing
     Pull request are always welcome.
@@ -34,7 +35,6 @@
 ## Questions
 
 <p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/carlastjuste">@carlastjuste</a></br>
-or via email at :
-<address>Email<a href="mailto:carlastjuste">carlastjuste</a><address><br>
+or via email at :<a href="mailto:carlastjuste@gmail.com">carlastjuste@gmail.com</a>
 </p>
 
