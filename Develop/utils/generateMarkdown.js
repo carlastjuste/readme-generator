@@ -49,11 +49,11 @@ switch (data.license) {
     
   ## Questions
 
-\```md
-  For more informations on this repository, please reach out to me via:
-* Email : ${data.email}
+<p>
+  For more informations on this repository, please reach out to me via:<br>
+* Email : ${data.email} <br>
 * Github : [@${data.github}](http://github.com/${data.github})
-\```
+</p>
 
 `;
 }
