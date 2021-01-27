@@ -30,8 +30,8 @@
 
   ## Questions
     For more informations on this repository, please reach out to me via:
-    * Email : carlastjuste@gmail.com
-    * Github : [@carlastjuste](https://github.com/carlastjuste)
-* [@carlastjuste](http://github.com/carlastjuste)
+* Email : carlastjuste@gmail.com
+* Github : [@carlastjuste](https://github.com/carlastjuste)
+
 
 
