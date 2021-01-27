@@ -30,11 +30,6 @@ const questions = [
         name:'usage',
         message: 'Provide instructions and examples for use:'
     },
-    {   type:'input',
-        name:'demolink',
-        message: 'Provide the link to the the demo or screenshot:',
-        default: ''
-    },
     {
         type: 'input',
         name:'contributing',
