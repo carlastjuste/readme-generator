@@ -20,8 +20,8 @@ switch (data.license) {
   <p align="center"><img src='${badgelink}'</p>
 
 ## Description
-<p><a href="${data.description}">Demo</a><p>
-<p align="center"><img src='./screenshot.png'</p>
+${data.description}
+
 
 
 ## Table of Contents
@@ -37,8 +37,10 @@ switch (data.license) {
     ${data.installation}
   
 ## Usage
- <p> Below is a demo of the app:</br></p>
-    ${data.usage}
+ <p> Below is a link to a demo:</br></p>
+ <p><a href="${data.usage}">Demo</a><p>
+ <p align="center"><img src='./screenshot.PNG'</p>
+
 
 ## Contributing
     ${data.contributing}
@@ -52,7 +54,7 @@ switch (data.license) {
 ## Questions
 
 <p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/${data.github}">@${data.github}</a></br>
-or via email on :
+or via email at :
 <address>Email<a href="mailto:${data.email}">${data.email}</a><address><br>
 </p>
 
