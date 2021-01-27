@@ -31,6 +31,6 @@
   ## Questions
     For more informations on this repository, please reach out to me via:
     * Email : carlastjuste@gmail.com
-    * Github : [@carlastjuste](http://github.com/carlastjuste)
+    * Github : [@carlastjuste](https://github.com/carlastjuste)
 
 
