@@ -14,7 +14,7 @@
   * [Questions](#questions)
 
   ## Installation
-    Pull this repo locally.On the terminal,cd to the folder where the file index.js is. <br> Use the command 'npm install' on the terminal.
+   Pull this repo locally.On the terminal,cd to the folder where the file index.js is. <br> Use the command 'npm install' on the terminal.
   
   ## Usage
     This app can be installed locally with the install nmp command: npm install
