@@ -20,7 +20,7 @@ This command-line application built with Node.js allows the users to dynamically
   
 ## Usage
 <p> The following a link is a video on how to use the app:<a href="https://drive.google.com/file/d/1MU7eya3to5P8iVToCBlPRX5A6VHtVf8S/view">Demo</a></p></br>
-<p align="center"><img src='./screenshot.PNG'</p><br>
+<p align="center"><img src='screenshot.PNG'</p><br>
 
 
 ## Contributing
@@ -35,6 +35,6 @@ This command-line application built with Node.js allows the users to dynamically
 ## Questions
 
 <p>For more informations on this repository, please reach out to me via Github : <a href="https://github.com/carlastjuste">@carlastjuste</a></br>
-or via email at :<a href="mailto:carlastjuste@gmail.com">carlastjuste@gmail.com</a>
+or via email at : <a href="mailto:carlastjuste@gmail.com">carlastjuste@gmail.com</a>
 </p>
 
